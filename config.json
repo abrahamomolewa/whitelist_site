@@ -1,17 +1,20 @@
 {
-    "price": 0.5,
+    "price": 0.1,
     "number": 10,
-    "gatekeeper": null,
-    "solTreasuryAccount": "sehuSABNYDNb1U1y5mMh9TCfP8uPhGXVx9zW6va8rTQ",
+    "gatekeeper": {
+        "gatekeeperNetwork" : "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+        "expireOnUse" : true
+    },
+    "solTreasuryAccount": "SeFPF2cv2ipHoueEtX7EXBJVHhEUpk8GJMsdUmsuMjb",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "19 jan 2022 00:00:00 GMT",
+    "goLiveDate": "7 feb 2022 00:00:00 GMT",
     "endSettings": null,
     "whitelistMintSettings": {
         "mode" : { "burnEveryTime": true },
-        "mint" : "Ton9s5v5Xg5qM6f3bCy98WwyXMaZHNAzrbb6EbT8wdF",
+        "mint" : "ToxctXipBHz4179N6CgcwpEHghrk7PE9vVFvHy2Cn72",
         "presale" : true,
-        "discountPrice" : 0.5
+        "discountPrice" : null
     },
     "hiddenSettings": null,
     "storage": "arweave",
